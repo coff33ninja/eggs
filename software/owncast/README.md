@@ -1,5 +1,7 @@
 # Owncast
 
+Strong password: XPj3n7qfF87D1@$vQSHDgw12rvKgn%BL
+
 ## From the [Owncast](https://owncast.online) website
 
 Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.
